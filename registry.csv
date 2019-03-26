@@ -1,0 +1,12 @@
+ValueName,Key,Data,Type,Note
+SchUseStrongCrypto,HKLM:\SOFTWARE\Microsoft\.NETFramework\v2.0.50727,1,DWord,ACAS #73992
+SchUseStrongCrypto,HKLM:\SOFTWARE\Wow6432Node\Microsoft\.NETFramework\v2.0.50727,1,DWord,ACAS #73992
+iexplore.exe,HKLM:\SOFTWARE\Wow6432Node\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_ALLOW_USER32_EXCEPTION_HANDLER_HARDENING,1,DWord,ACAS #87253
+CustomerFeedback,HKLM:\Software\Microsoft\Microsoft SQL Server\130,0,DWord,STIG ID V-79313
+EnableErrorReporting,HKLM:\Software\Microsoft\Microsoft SQL Server\130,0,DWord,STIG ID V-79313
+CustomerFeedback,HKLM:\Software\Microsoft\Microsoft SQL Server\MSSQL13.MSSQLSERVER\CPE,0,DWord,STIG ID V-79313
+EnableErrorReporting,HKLM:\Software\Microsoft\Microsoft SQL Server\MSSQL13.MSSQLSERVER\CPE,0,DWord,STIG ID V-79313
+AllowStrongNameBypass,HKLM:\Software\Microsoft\.NETFramework,0,DWord,STIG ID V-30935
+SchUseStrongCrypto,HKLM:\SOFTWARE\Wow6432Node\Microsoft\.NETFramework\v4.0.30319,1,DWord,STIG-ID V-81495
+SchUseStrongCrypto,HKLM:\SOFTWARE\Microsoft\.NETFramework\v4.0.30319,1,DWord,STIG-ID V-81495
+DisablePasswordChange,HKLM:\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,0,DWord,STIG-ID V-63653
